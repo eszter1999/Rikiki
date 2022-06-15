@@ -1,6 +1,6 @@
 Ez a projekt egy egyetemes házi feladatból született.
 
-# A specifizációja:
+# A specifikációja:
 ## Bemutatás
 Idén nyáron a baráti társaságommal nagyon megszerettük a Rikiki kártyajátékot. A játékhoz tartozik az, hogy körről körre vezetni kell, hogy ki mennyi kártyát tervezett vinni és ebből mi valósult meg, amihez rendszeresen elfelejtettünk papírt és ceruzát vinni. De mivel telefon mindig volt nálunk, felmerült, hogy jól jönne egy alkalmazás, amin lehetne ezeket vezetni.
 
